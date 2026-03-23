@@ -66,7 +66,7 @@ Sensors → ESP32 → Data Transmission → Server → AI Analysis → Irrigatio
 
 🌱 Crop Recommendation
 
-![Crop](images/cropecommendation.png)
+![Crop](images/crop_recommendation.png)
 
 🦠 Disease Analysis
 
