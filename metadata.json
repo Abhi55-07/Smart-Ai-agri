@@ -1,0 +1,5 @@
+{
+  "name": "Smart IoT Agriculture",
+  "description": "Professional Smart IoT Agriculture system with real-time monitoring, automation, and AI-powered disease analysis.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
